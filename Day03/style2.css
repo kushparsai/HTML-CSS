@@ -1,0 +1,26 @@
+#para1{
+    background-color: mediumaquamarine;
+    padding: 10px;
+    position: static;
+}
+#para2{
+    background-color: aquamarine;
+    padding: 10px;
+    position: relative;
+    top: 10px;
+    bottom: 20px;
+}
+#para3{
+    background-color: rosybrown;
+    padding: 10px;
+    position: absolute;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: yellow;
+}
+a:visited{
+    color: aqua;
+}

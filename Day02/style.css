@@ -1,0 +1,29 @@
+#heading{
+    color: mediumorchid
+}
+
+.h1{
+    color:rgba(255,0,0,0.521);
+    background-color: aqua;
+}
+
+h1{
+    color: blue;
+}
+div{
+    color: mediumaquamarine;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+#heading{
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+#para{
+    line-height: 40px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
